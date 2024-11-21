@@ -1,3 +1,9 @@
+/**
+ * CustomerInterface.java
+ * @author Minh Long Hang
+ * CIS 22C, Applied Lab 4
+ */
+
 import java.io.*;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
